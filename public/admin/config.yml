@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Jason123/my-blog
+  repo: cjshyh/my-blog
   branch: main
 
 media_folder: "public/images"
