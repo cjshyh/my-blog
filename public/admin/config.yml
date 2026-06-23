@@ -9,7 +9,7 @@ public_folder: "/images"
 collections:
   - name: "posts"
     label: "博客文章"
-    folder: "src/content/posts"
+    folder: "src/content/blog"
     create: true
     fields:
       - { label: "标题", name: "title", widget: "string" }
